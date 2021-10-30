@@ -5,10 +5,12 @@ This project include a portfolio template which is built using [React](https://r
 ## How to Run the Project
 
 You need to simply clone the project and then with in the project directory, you can run:
-`
+
+````
 npm i
 
 npm run start
 
 npm run build
-`
+
+````
